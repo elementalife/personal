@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "Trove Debugging Tool"
+  },
+  "extDesc": {
+    "message": "Simple chrome extension using as Trove Debugging Tool."
+  },
+  "ext_default_title": {
+    "message": "Trove Debugging Tool"
+  }
+}

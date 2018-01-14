@@ -1,0 +1,41 @@
+{
+  "name": "trove",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Clement Wang <clwan@microsoft.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular-ui-grid": "^4.0.6",
+    "angular-ui-select": "^0.19.8",
+    "angular": "^1.6.6",
+    "angular-sanitize": "^1.6.6",
+    "select2": "~3.4.5",
+    "angular-touch": "^1.6.6",
+    "angular-animate": "^1.6.6",
+    "dygraphs": "^2.0.0",
+    "chart.js": "^2.6.0",
+    "angular-chart.js": "^1.1.1",
+    "angular.panels": "^1.0.3",
+    "components-font-awesome": "^4.7.0",
+    "angular-cookies": "^1.6.6",
+    "angular-modal-service": "^0.12.1",
+    "ng-bootstrap-select": "^0.5.0",
+    "bootstrap-select": "^1.12.4",
+    "angular-d3-word-cloud": "^0.4.0",
+    "angular-bootstrap": "^2.5.0"
+  },
+  "resolutions": {
+    "angular": "^1.6.6"
+  }
+}
